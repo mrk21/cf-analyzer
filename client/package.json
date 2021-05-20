@@ -17,7 +17,7 @@
     "highcharts": "^9.0.1",
     "highcharts-react-official": "^3.0.0",
     "io-ts": "^2.2.10",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "next": "^9.5.3",
     "next-redux-wrapper": "^6.0.2",
     "react": "^16.12.0",
